@@ -1,0 +1,5 @@
+[flake8]
+exclude = venv,*migrations*
+max-line-length = 119
+application-import-names = app, tests
+import-order-style = smarkets
